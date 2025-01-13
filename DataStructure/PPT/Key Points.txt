@@ -1,0 +1,69 @@
+|PPT 2:|  
+
+1. |Algorithm time complexity analysis \(O()\):| Different ways of expressing algorithm complexities and the performance distinctions among them.  
+2. Provide the algorithm with the lowest time complexity for solving problems like determining "anagrams."  
+3. Compare the performance of retrieving a value from a list and a dictionary in Python.  
+
+---
+
+|PPT 3:|  
+
+1. Use a stack structure to solve general parentheses matching.  
+2. Use a stack structure to implement conversions from decimal to binary (or octal, hexadecimal).  
+3. Transformations among prefix, infix, and postfix expressions and how to use a stack for these conversions and evaluations.  
+
+---
+
+|PPT 4:|  
+
+1. Introduce different queue concepts and the problems they can solve (e.g., train station track scheduling problems).  
+2. Solve palindrome detection problems using queues.  
+3. Understand linked list structures and implement operations (insertion, deletion, search, etc.).  
+
+---
+
+|PPT 5:|  
+
+1. Recursion (e.g., base conversion).  
+2. Drawing the Sierpiński triangle at a certain degree.  
+3. Solution and recursion method for the Tower of Hanoi problem.  
+
+---
+
+|PPT 6:|  
+
+1. Recursive method for solving the coin change problem.  
+
+---
+
+|PPT 7:|  
+
+1. Understand the principles and differences among binary search, bubble sort, shell sort, merge sort, and quick sort, including their complexity comparisons.  
+2. Solve a problem with the most time-efficient or space-efficient sorting method based on a random task.  
+
+---
+
+|PPT 8:|  
+
+1. Understand the concept of hashing and how to use a hash to locate and retrieve corresponding data.  
+
+---
+
+|PPT 9:|  
+
+1. Representation of tree structures and their implementation using linked lists.  
+2. Tree traversal methods (depth-first and breadth-first).  
+
+---
+
+|PPT 10:|  
+
+1. Searching in binary trees (breadth-first and depth-first).  
+
+---
+
+|PPT 11:|  
+
+1. Representation of graph structures.  
+2. Graph traversal methods (breadth-first and depth-first).  
+3. Breadth-first search algorithm for solving the word ladder problem.  
