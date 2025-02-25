@@ -1,4 +1,4 @@
-# JNU课程材料
+# JNU课程材料😭😩😢
 By MayL
 VX:ml2792801628
 + 包含真题回忆版
@@ -11,5 +11,5 @@ VX:ml2792801628
 + Some review materials
 + **Please check and pay attention to the teacher**.
 
-# Give me some stars pls!😭😩😢
+# Give me some stars pls!
 
